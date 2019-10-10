@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+}
+body {
+  background: #e5e5e5;
+  text-align: center;
+}
+header {
+  background: #43ab92;
+  text-align: center;
+  height: 100px;
+}
+header h1 {
+  color: aliceblue;
+  font-size: 5rem;
+  padding: 5px;
+}
+#level-title {
+  font-size: 3rem;
+  margin: 5%;
+}
+.dot {
+  display: block;
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+#red {
+  display: inline-block;
+  background: red;
+}
+#yellow {
+  display: inline-block;
+  background: yellow;
+}
+#green {
+  display: inline-block;
+  background: green;
+}
+#blue {
+  display: inline-block;
+  background: blue;
+}
